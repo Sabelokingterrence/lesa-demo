@@ -1,0 +1,48 @@
+:root {
+    --greenmain: rgba(0, 95, 95, 1);
+    --blackmain: rgba(0, 0, 0, 1);
+    --blacksilver: rgba(201, 201, 201, 1);
+    --orangemain: rgba(253, 86, 0, 1);
+    --greenmain: rgba(0, 95, 95, 1);
+    --blacksilver: rgba(201, 201, 201, 1);
+    --blackmain: rgba(0, 0, 0, 1);
+    --white: rgba(255, 255, 255, 1);
+    --orangemain: rgba(253, 86, 0, 1);
+    --subtitle-text-color: rgba(128, 128, 128, 1);
+    --border: rgba(234, 234, 234, 1);
+    --titel-text-color: rgba(0, 0, 0, 1);
+    --primary-2: rgba(244, 128, 35, 1);
+    --greenkeppel: rgba(96, 186, 161, 1);
+    --orangepumpkin: rgba(254, 105, 0, 1);
+    --shadow: 2px 1px 5px 0px rgba(0, 0, 0, 0.15);
+    --greenmain: rgba(0, 95, 95, 1);
+    --blacksilver: rgba(201, 201, 201, 1);
+    --blackmain: rgba(0, 0, 0, 1);
+    --whitewhite: rgba(255, 255, 255, 1);
+    --textgraydark: rgba(44, 44, 46, 1);
+    --textgray: rgba(102, 102, 104, 1);
+    --orangemain: rgba(253, 86, 0, 1);
+    --graygray-1: rgba(242, 242, 247, 1);
+    --blueblue-5: rgba(0, 122, 255, 1);
+    --font-weights-text-semibold-font-family: "EloquiaText-SemiBold", Helvetica;
+    --font-weights-text-semibold-font-weight: 600;
+    --font-weights-text-semibold-font-size: 14px;
+    --font-weights-text-semibold-letter-spacing: 0px;
+    --font-weights-text-semibold-line-height: 18px;
+    --font-weights-text-semibold-font-style: normal;
+    --font-sizes-text-xs-font-family: "EloquiaText-Regular", Helvetica;
+    --font-sizes-text-xs-font-weight: 400;
+    --font-sizes-text-xs-font-size: 12px;
+    --font-sizes-text-xs-letter-spacing: 0px;
+    --font-sizes-text-xs-line-height: normal;
+    --font-sizes-text-xs-font-style: normal;
+    --font-weights-text-regular-font-family: "EloquiaText-Regular", Helvetica;
+    --font-weights-text-regular-font-weight: 400;
+    --font-weights-text-regular-font-size: 14px;
+    --font-weights-text-regular-letter-spacing: 0px;
+    --font-weights-text-regular-line-height: 20px;
+    --font-weights-text-regular-font-style: normal;
+    --border-shadow-bottom: ;
+    --border-shadow-top: ;
+  }
+  

@@ -1,0 +1,36 @@
+:root {
+  --greenmain: rgba(0, 95, 95, 1);
+  --blackmain: rgba(0, 0, 0, 1);
+  --orangemain: rgba(253, 86, 0, 1);
+  --greenkeppel: rgba(96, 186, 161, 1);
+  --blacksilver: rgba(201, 201, 201, 1);
+  --greenmain: rgba(0, 95, 95, 1);
+  --blackmain: rgba(0, 0, 0, 1);
+  --gray-500: rgba(107, 114, 128, 1);
+  --gray-200: rgba(228, 230, 234, 1);
+  --basewhite: rgba(255, 255, 255, 1);
+  --blacksilver: rgba(201, 201, 201, 1);
+  --blue-700: rgba(29, 78, 215, 1);
+  --blue-100: rgba(218, 233, 253, 1);
+  --tremor-text-font-family: "Inter-Regular", Helvetica;
+  --tremor-text-font-weight: 400;
+  --tremor-text-font-size: 14px;
+  --tremor-text-letter-spacing: 0px;
+  --tremor-text-line-height: 20px;
+  --tremor-text-font-style: normal;
+  --greenmain: rgba(0, 95, 95, 1);
+  --blackmain: rgba(0, 0, 0, 1);
+  --blacksilver: rgba(201, 201, 201, 1);
+  --greenmain: rgba(0, 95, 95, 1);
+  --blacksilver: rgba(201, 201, 201, 1);
+  --blackmain: rgba(0, 0, 0, 1);
+  --orangemain: rgba(253, 86, 0, 1);
+  --blue-700: rgba(29, 78, 215, 1);
+  --blue-100: rgba(218, 233, 253, 1);
+  --tremor-text-font-family: "Inter-Regular", Helvetica;
+  --tremor-text-font-weight: 400;
+  --tremor-text-font-size: 14px;
+  --tremor-text-letter-spacing: 0px;
+  --tremor-text-line-height: 20px;
+  --tremor-text-font-style: normal;
+}

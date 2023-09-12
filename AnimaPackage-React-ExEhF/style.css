@@ -1,0 +1,649 @@
+.my-courses {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-courses .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1519px;
+  height: 1024px;
+  position: relative;
+}
+
+.my-courses .dashboard-header {
+  display: flex;
+  width: 1519px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 2px 4px #00000014;
+}
+
+.my-courses .div-navbar-header {
+  display: flex;
+  width: 1519.2px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 11.99px 0px 0px;
+  position: relative;
+}
+
+.my-courses .div-d-flex {
+  position: relative;
+  width: 650.11px;
+  height: 70px;
+}
+
+.my-courses .div-navbar-brand-box {
+  display: flex;
+  width: 240px;
+  align-items: flex-start;
+  padding: 25.71px 117.79px 24.29px 24px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--greenmain);
+}
+
+.my-courses .component {
+  position: relative;
+  width: 101.81px;
+  height: 20px;
+  margin-right: -3.6px;
+}
+
+.my-courses .button {
+  position: absolute;
+  width: 56px;
+  height: 70px;
+  top: 0;
+  left: 240px;
+  object-fit: cover;
+}
+
+.my-courses .form {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 16px 0px;
+  position: absolute;
+  top: 0;
+  left: 296px;
+}
+
+.my-courses .div-position {
+  position: relative;
+  width: 228px;
+  height: 38px;
+}
+
+.my-courses .overlap-group {
+  position: relative;
+  height: 38px;
+  border-radius: 30px;
+}
+
+.my-courses .input {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 9.4px 20px 8.6px 40px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f1f5f7;
+  border-radius: 30px;
+}
+
+.my-courses .pseudo {
+  display: flex;
+  width: 168px;
+  align-items: flex-start;
+  padding: 0px 114px 0px 0px;
+  position: relative;
+}
+
+.my-courses .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Nunito", Helvetica;
+  font-weight: 400;
+  color: #74788d;
+  font-size: 14.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.my-courses .icon {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 10px;
+  left: 13px;
+}
+
+.my-courses .frame-wrapper {
+  position: relative;
+  width: 361.58px;
+  height: 70px;
+}
+
+.my-courses .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 2px;
+  position: relative;
+  left: 96px;
+}
+
+.my-courses .div-dropdown {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .button-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .button-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 23px 12px 24.6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .img {
+  position: relative;
+  width: 22px;
+}
+
+.my-courses .span-noti-dot {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 20px;
+  left: 26px;
+  background-color: #ff3d60;
+  border-radius: 3px;
+}
+
+.my-courses .button-3 {
+  position: relative;
+  width: 121.2px;
+  height: 70px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.my-courses .avatar-jpg {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 17px;
+  left: 12px;
+  border-radius: 18px;
+  background-image: url(./img/avatar-2-jpg-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.my-courses .text-wrapper-2 {
+  position: absolute;
+  height: 22px;
+  top: 22px;
+  left: 55px;
+  font-family: "Nunito", Helvetica;
+  font-weight: 400;
+  color: #636e75;
+  font-size: 14.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  white-space: nowrap;
+}
+
+.my-courses .icon-2 {
+  position: absolute;
+  width: 14px;
+  height: 22px;
+  top: 22px;
+  left: 95px;
+}
+
+.my-courses .frame-2 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 900px;
+  align-items: center;
+  gap: 25px;
+  position: absolute;
+  top: 123px;
+  left: 290px;
+}
+
+.my-courses .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .frame-4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.my-courses .item-menu {
+  position: relative;
+  width: fit-content;
+  opacity: 0.5;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--blackmain);
+  font-size: 14px;
+  letter-spacing: 0.55px;
+  line-height: 16.5px;
+  white-space: nowrap;
+}
+
+.my-courses .book-a-free-demo-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 5px 20px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--greenmain);
+  border-radius: 6px;
+  overflow: hidden;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.my-courses .book-a-free-demo {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.my-courses .frame-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 15px;
+  padding: 10px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .themesdesign-in-by {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #f7f7f7;
+  border-radius: 15px;
+}
+
+.my-courses .img-2 {
+  position: relative;
+  width: 282px;
+  height: 188px;
+  object-fit: cover;
+}
+
+.my-courses .frame-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 13px;
+  padding: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .heading-card-title {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #354558;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  white-space: nowrap;
+}
+
+.my-courses .p-card-text {
+  display: flex;
+  width: 242.3px;
+  align-items: flex-start;
+  padding: 0px 6.3px 0.69px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .some-quick-example {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #354558;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 22.1px;
+}
+
+.my-courses .link-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 13px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.my-courses .link {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 5.8px 12.2px 7.3px 12.8px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--greenmain);
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--greenmain);
+}
+
+.my-courses .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  white-space: nowrap;
+}
+
+.my-courses .div-wrapper {
+  display: flex;
+  width: 243px;
+  align-items: center;
+  justify-content: center;
+  padding: 14.78px 30.54px 15px 30.89px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-bottom: -32.36px;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--greenmain);
+  all: unset;
+  box-sizing: border-box;
+}
+
+.my-courses .book-a-free-demo-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--greenmain);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.my-courses .dashboard-sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+  height: 954px;
+  align-items: flex-start;
+  position: absolute;
+  top: 70px;
+  left: 0;
+  background-color: var(--greenmain);
+}
+
+.my-courses .frame-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.my-courses .frame-8 {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.my-courses .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  opacity: 0.5;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--blacksilver);
+  font-size: 11px;
+  letter-spacing: 0.55px;
+  line-height: 16.5px;
+  white-space: nowrap;
+}
+
+.my-courses .item-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.my-courses .frame-9 {
+  display: inline-flex;
+  align-items: center;
+  gap: 76px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .frame-10 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .icon-3 {
+  position: relative;
+  width: 17.6px;
+}
+
+.my-courses .text-wrapper-5 {
+  position: relative;
+  width: 69.56px;
+  height: 16px;
+  margin-top: -0.2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #8590a5;
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.my-courses .frame-11 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.my-courses .img-3 {
+  position: relative;
+  width: 17.6px;
+  height: 17.6px;
+}
+
+.my-courses .text-wrapper-6 {
+  position: relative;
+  flex: 1;
+  height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #d7e4ec;
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.my-courses .icon-4 {
+  position: relative;
+  width: 16px;
+}
+
+.my-courses .list {
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+  align-items: flex-start;
+  gap: 12.3px;
+  padding: 6px 99.8px 6.3px 51.2px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .item-link-products {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #d7e4ec;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 19.5px;
+  white-space: nowrap;
+}
+
+.my-courses .text-wrapper-7 {
+  position: relative;
+  flex: 1;
+  height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #8590a5;
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.my-courses .frame-12 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.my-courses .text-wrapper-8 {
+  position: relative;
+  flex: 1;
+  height: 16px;
+  margin-top: -0.2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #8590a5;
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.my-courses .item-link-2 {
+  position: relative;
+  width: 240px;
+  height: 44.7px;
+}
+
+.my-courses .frame-13 {
+  display: inline-flex;
+  align-items: center;
+  gap: 73px;
+  position: relative;
+  top: 10px;
+  left: 24px;
+}
+
+.my-courses .text-wrapper-9 {
+  position: relative;
+  width: 75.7px;
+  height: 16px;
+  margin-top: -0.2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #8590a5;
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}

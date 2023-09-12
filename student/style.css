@@ -1,0 +1,3723 @@
+.dashbaord {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .dashbaord .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1519px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .dashbaord .dashboard-header {
+    display: flex;
+    width: 1519px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px #00000014;
+  }
+  
+  .dashbaord .div-navbar-header {
+    display: flex;
+    width: 1519.2px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 11.99px 0px 0px;
+    position: relative;
+  }
+  
+  .dashbaord .div-d-flex {
+    position: relative;
+    width: 650.11px;
+    height: 70px;
+  }
+  
+  .dashbaord .div-navbar-brand-box {
+    display: flex;
+    width: 240px;
+    align-items: flex-start;
+    padding: 25.71px 117.79px 24.29px 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .dashbaord .component {
+    position: relative;
+    width: 101.81px;
+    height: 20px;
+    margin-right: -3.6px;
+  }
+  
+  .dashbaord .button {
+    position: absolute;
+    width: 56px;
+    height: 70px;
+    top: 0;
+    left: 240px;
+    object-fit: cover;
+  }
+  
+  .dashbaord .form {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 16px 0px;
+    position: absolute;
+    top: 0;
+    left: 296px;
+  }
+  
+  .dashbaord .div-position {
+    position: relative;
+    width: 228px;
+    height: 38px;
+  }
+  
+  .dashbaord .overlap-group {
+    position: relative;
+    height: 38px;
+    border-radius: 30px;
+  }
+  
+  .dashbaord .input {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 9.4px 20px 8.6px 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f1f5f7;
+    border-radius: 30px;
+  }
+  
+  .dashbaord .pseudo {
+    display: flex;
+    width: 168px;
+    align-items: flex-start;
+    padding: 0px 114px 0px 0px;
+    position: relative;
+  }
+  
+  .dashbaord .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #74788d;
+    font-size: 14.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .dashbaord .icon {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 13px;
+  }
+  
+  .dashbaord .frame-wrapper {
+    position: relative;
+    width: 361.58px;
+    height: 70px;
+  }
+  
+  .dashbaord .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 2px;
+    position: relative;
+    left: 96px;
+  }
+  
+  .dashbaord .img {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .div-dropdown {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .button-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 23px 12px 24.6px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .icon-2 {
+    position: relative;
+    width: 22px;
+  }
+  
+  .dashbaord .span-noti-dot {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 20px;
+    left: 26px;
+    background-color: #ff3d60;
+    border-radius: 3px;
+  }
+  
+  .dashbaord .button-3 {
+    position: relative;
+    width: 121.2px;
+    height: 70px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .dashbaord .avatar-jpg {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 17px;
+    left: 12px;
+    border-radius: 18px;
+    background-image: url(./img/avatar-2-jpg-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .dashbaord .text-wrapper-2 {
+    position: absolute;
+    height: 22px;
+    top: 22px;
+    left: 55px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #636e75;
+    font-size: 14.4px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 21.6px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .icon-3 {
+    position: absolute;
+    width: 14px;
+    height: 22px;
+    top: 22px;
+    left: 95px;
+  }
+  
+  .dashbaord .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: absolute;
+    top: 144px;
+    left: 290px;
+  }
+  
+  .dashbaord .item-menu {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blackmain);
+    font-size: 14px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .frame-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 25px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .div-card-heading {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 24px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f7f7f7f7;
+    border-radius: 15px;
+  }
+  
+  .dashbaord .frame-4 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .frame-5 {
+    display: inline-flex;
+    align-items: center;
+    gap: 47px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .heading-active {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #354558;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .heading {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #354558;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 33.6px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .div-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 246px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 24px;
+    position: relative;
+    background-color: #f7f7f7f7;
+    border-radius: 15px;
+  }
+  
+  .dashbaord .frame-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .frame-7 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .heading-active-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 83px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #354558;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .img-2 {
+    position: relative;
+    width: 53px;
+    height: 53px;
+  }
+  
+  .dashbaord .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: absolute;
+    top: 353px;
+    left: 290px;
+  }
+  
+  .dashbaord .frame-9 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 10px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .themesdesign-in-by {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f7f7f7;
+    border-radius: 15px;
+  }
+  
+  .dashbaord .img-3 {
+    position: relative;
+    width: 282px;
+    height: 188px;
+    object-fit: cover;
+  }
+  
+  .dashbaord .frame-10 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 13px;
+    padding: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .p-card-text {
+    display: flex;
+    width: 242.3px;
+    align-items: flex-start;
+    padding: 0px 6.3px 0.69px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .some-quick-example {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #354558;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 22.1px;
+  }
+  
+  .dashbaord .link {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 5.8px 12.2px 7.3px 12.8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--greenmain);
+    border-radius: 3px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: var(--greenmain);
+  }
+  
+  .dashbaord .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .dashboard-sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 954px;
+    align-items: flex-start;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .dashbaord .frame-11 {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blacksilver);
+    font-size: 11px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .item-link {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .frame-12 {
+    display: inline-flex;
+    align-items: center;
+    gap: 76px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .frame-13 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .icon-4 {
+    position: relative;
+    width: 17.6px;
+  }
+  
+  .dashbaord .text-wrapper-6 {
+    position: relative;
+    width: 69.56px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #d7e4ec;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .span-badge {
+    display: flex;
+    width: 18.38px;
+    height: 14.95px;
+    align-items: flex-start;
+    padding: 1.89px 5.41px 3.06px 5.97px;
+    position: relative;
+    background-color: var(--orangemain);
+    border-radius: 800px;
+  }
+  
+  .dashbaord .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 10px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .item-link-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .frame-14 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .dashbaord .img-4 {
+    position: relative;
+    width: 17.6px;
+    height: 17.6px;
+  }
+  
+  .dashbaord .text-wrapper-8 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .icon-5 {
+    position: relative;
+    width: 16px;
+  }
+  
+  .dashbaord .text-wrapper-9 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .dashbaord .item-link-3 {
+    position: relative;
+    width: 240px;
+    height: 44.7px;
+  }
+  
+  .dashbaord .frame-15 {
+    display: inline-flex;
+    align-items: center;
+    gap: 73px;
+    position: relative;
+    top: 10px;
+    left: 24px;
+  }
+  
+  .dashbaord .text-wrapper-10 {
+    position: relative;
+    width: 75.7px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  .forum-contribute {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .forum-contribute .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1519px;
+    height: 1976px;
+    position: relative;
+  }
+  
+  .forum-contribute .dashboard-header {
+    display: flex;
+    width: 1519px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px #00000014;
+  }
+  
+  .forum-contribute .div-navbar-header {
+    display: flex;
+    width: 1519.2px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 11.99px 0px 0px;
+    position: relative;
+  }
+  
+  .forum-contribute .div-d-flex {
+    position: relative;
+    width: 650.11px;
+    height: 70px;
+  }
+  
+  .forum-contribute .div-navbar-brand-box {
+    display: flex;
+    width: 240px;
+    align-items: flex-start;
+    padding: 25.71px 117.79px 24.29px 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .forum-contribute .component {
+    position: relative;
+    width: 101.81px;
+    height: 20px;
+    margin-right: -3.6px;
+  }
+  
+  .forum-contribute .button {
+    position: absolute;
+    width: 56px;
+    height: 70px;
+    top: 0;
+    left: 240px;
+    object-fit: cover;
+  }
+  
+  .forum-contribute .form {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 16px 0px;
+    position: absolute;
+    top: 0;
+    left: 296px;
+  }
+  
+  .forum-contribute .div-position {
+    position: relative;
+    width: 228px;
+    height: 38px;
+  }
+  
+  .forum-contribute .overlap-group {
+    position: relative;
+    height: 38px;
+    border-radius: 30px;
+  }
+  
+  .forum-contribute .input {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 9.4px 20px 8.6px 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f1f5f7;
+    border-radius: 30px;
+  }
+  
+  .forum-contribute .pseudo {
+    display: flex;
+    width: 168px;
+    align-items: flex-start;
+    padding: 0px 114px 0px 0px;
+    position: relative;
+  }
+  
+  .forum-contribute .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #74788d;
+    font-size: 14.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .forum-contribute .icon {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 13px;
+  }
+  
+  .forum-contribute .frame-wrapper {
+    position: relative;
+    width: 361.58px;
+    height: 70px;
+  }
+  
+  .forum-contribute .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 2px;
+    position: relative;
+    left: 96px;
+  }
+  
+  .forum-contribute .div-dropdown {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .div-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .button-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 23px 12px 24.6px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .img {
+    position: relative;
+    width: 22px;
+  }
+  
+  .forum-contribute .span-noti-dot {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 20px;
+    left: 26px;
+    background-color: #ff3d60;
+    border-radius: 3px;
+  }
+  
+  .forum-contribute .button-3 {
+    position: relative;
+    width: 121.2px;
+    height: 70px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .forum-contribute .avatar-jpg {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 17px;
+    left: 12px;
+    border-radius: 18px;
+    background-image: url(./img/avatar-2-jpg-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .forum-contribute .text-wrapper-2 {
+    position: absolute;
+    height: 22px;
+    top: 22px;
+    left: 55px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #636e75;
+    font-size: 14.4px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 21.6px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .icon-2 {
+    position: absolute;
+    width: 14px;
+    height: 22px;
+    top: 22px;
+    left: 95px;
+  }
+  
+  .forum-contribute .dashboard-sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 1906px;
+    align-items: flex-start;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .forum-contribute .div-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .div-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blacksilver);
+    font-size: 11px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .item-link {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 76px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .icon-3 {
+    position: relative;
+    width: 17.6px;
+  }
+  
+  .forum-contribute .text-wrapper-4 {
+    position: relative;
+    width: 69.56px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .frame-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .img-2 {
+    position: relative;
+    width: 17.6px;
+    height: 17.6px;
+  }
+  
+  .forum-contribute .text-wrapper-5 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .icon-4 {
+    position: relative;
+    width: 16px;
+  }
+  
+  .forum-contribute .frame-5 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .text-wrapper-6 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .item-link-2 {
+    position: relative;
+    width: 240px;
+    height: 44.7px;
+  }
+  
+  .forum-contribute .frame-6 {
+    display: inline-flex;
+    align-items: center;
+    gap: 73px;
+    position: relative;
+    top: 10px;
+    left: 24px;
+  }
+  
+  .forum-contribute .text-wrapper-7 {
+    position: relative;
+    width: 75.7px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .frame-7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+    position: absolute;
+    top: 120px;
+    left: 290px;
+  }
+  
+  .forum-contribute .item-menu {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blackmain);
+    font-size: 14px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .frame-8 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 50px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .frame-9 {
+    display: flex;
+    flex-direction: column;
+    width: 805px;
+    align-items: flex-start;
+    gap: 31px;
+    position: relative;
+  }
+  
+  .forum-contribute .tabs {
+    display: inline-flex;
+    height: 25px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 0px 5px;
+    position: relative;
+  }
+  
+  .forum-contribute .tab-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 10px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--orangemain);
+    border-radius: 100px;
+    overflow: hidden;
+  }
+  
+  .forum-contribute .img-3 {
+    position: relative;
+    width: 12px;
+    height: 12px;
+  }
+  
+  .forum-contribute .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--white);
+    font-size: 13px;
+    letter-spacing: 0.65px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .tab-button-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 10px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--border);
+    border-radius: 100px;
+    overflow: hidden;
+  }
+  
+  .forum-contribute .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--subtitle-text-color);
+    font-size: 13px;
+    letter-spacing: 0.65px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .post-comments {
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .post-full {
+    display: flex;
+    width: 725px;
+    align-items: flex-start;
+    padding: 50px 40px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .head {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 40px;
+  }
+  
+  .forum-contribute .group {
+    position: absolute;
+    width: 127px;
+    height: 32px;
+    top: 4px;
+    left: 55px;
+  }
+  
+  .forum-contribute .time {
+    position: absolute;
+    height: 12px;
+    top: 20px;
+    left: 0;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--subtitle-text-color);
+    font-size: 10px;
+    letter-spacing: 0.5px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .nikcname {
+    position: absolute;
+    height: 15px;
+    top: 0;
+    left: 0;
+    font-weight: 400;
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 13px;
+    letter-spacing: 0.65px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .ava {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .forum-contribute .feather-more {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 8px;
+    left: 621px;
+  }
+  
+  .forum-contribute .p {
+    position: relative;
+    align-self: stretch;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .forum-contribute .text-wrapper-10 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .forum-contribute .code {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--border);
+    overflow: hidden;
+  }
+  
+  .forum-contribute .group-2 {
+    position: relative;
+    width: 649px;
+    height: 126px;
+    margin-right: -4px;
+  }
+  
+  .forum-contribute .text-wrapper-11 {
+    position: absolute;
+    width: 40px;
+    top: 0;
+    left: 0;
+    font-family: "Droid Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #857857;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.28px;
+    line-height: 18px;
+  }
+  
+  .forum-contribute .package-mian-import {
+    position: absolute;
+    width: 605px;
+    top: 0;
+    left: 40px;
+    font-family: "Droid Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--titel-text-color);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 18px;
+  }
+  
+  .forum-contribute .submenu {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 2px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+  }
+  
+  .forum-contribute .tags {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px 10px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--border);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .forum-contribute .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--subtitle-text-color);
+    font-size: 10px;
+    letter-spacing: 0.5px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .button-4 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 20px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--orangemain);
+    border-radius: 6px;
+    overflow: hidden;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .forum-contribute .arrow-up {
+    position: relative;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .forum-contribute .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .text-wrapper-14 {
+    position: relative;
+    width: 161px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: var(--subtitle-text-color);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0.9px;
+    line-height: 25px;
+  }
+  
+  .forum-contribute .suggest-block {
+    display: flex;
+    flex-direction: column;
+    width: 720px;
+    align-items: flex-end;
+    gap: 10px;
+    padding: 30px 40px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--white);
+    box-shadow: var(--shadow);
+  }
+  
+  .forum-contribute .input-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .input-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 33.9px;
+    margin-top: -1px;
+    margin-bottom: -1px;
+    margin-left: -1px;
+    margin-right: -1px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #ced4da;
+  }
+  
+  .forum-contribute .frame-10 {
+    display: flex;
+    flex-direction: column;
+    width: 1180px;
+    height: 20px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 0px 0px 0px 8px;
+    position: relative;
+    top: 6px;
+  }
+  
+  .forum-contribute .frame-11 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 396px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .item-link-products-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 0px 0px 0px 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .item-link-products {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #49505780;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .button-5 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 20px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--greenmain);
+    border-radius: 6px;
+    overflow: hidden;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .forum-contribute .message-square {
+    position: relative;
+    width: 19px;
+    height: 18px;
+  }
+  
+  .forum-contribute .element-level-comment {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+    box-shadow: var(--shadow);
+  }
+  
+  .forum-contribute .indicator {
+    position: relative;
+    align-self: stretch;
+    width: 5px;
+    background-color: var(--primary-2);
+    opacity: 0.5;
+  }
+  
+  .forum-contribute .content {
+    display: flex;
+    flex-direction: column;
+    width: 720px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 20px 40px;
+    position: relative;
+  }
+  
+  .forum-contribute .head-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 32px;
+  }
+  
+  .forum-contribute .ava-2 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .forum-contribute .name-time {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    position: absolute;
+    top: 0;
+    left: 40px;
+  }
+  
+  .forum-contribute .nikcname-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0.65px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .time-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--subtitle-text-color);
+    font-size: 10px;
+    letter-spacing: 0.5px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .feather-more-2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 7px;
+    left: 622px;
+  }
+  
+  .forum-contribute .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "Roboto", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0.7px;
+    line-height: 25px;
+  }
+  
+  .forum-contribute .group-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 0px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: var(--border);
+    overflow: hidden;
+  }
+  
+  .forum-contribute .group-3 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 18px;
+    margin-right: -4px;
+  }
+  
+  .forum-contribute .text-wrapper-15 {
+    position: absolute;
+    width: 600px;
+    top: 0;
+    left: 40px;
+    font-family: "Droid Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--titel-text-color);
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 18px;
+  }
+  
+  .forum-contribute .line {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    margin-top: -1px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .forum-contribute .dlr {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 23px;
+  }
+  
+  .forum-contribute .likes-dislikes {
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .forum-contribute .dislikes {
+    position: relative;
+    width: 35px;
+    height: 14px;
+  }
+  
+  .forum-contribute .img-4 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 0;
+    left: 0;
+  }
+  
+  .forum-contribute .text-wrapper-16 {
+    position: absolute;
+    top: 0;
+    left: 19px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 300;
+    color: var(--subtitle-text-color);
+    font-size: 12px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .likes {
+    position: relative;
+    width: 28px;
+    height: 14px;
+    margin-right: -2px;
+  }
+  
+  .forum-contribute .frame-12 {
+    left: 449px;
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .forum-contribute .see-replies {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 5px;
+    padding: 10px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .img-5 {
+    position: relative;
+    width: 14px;
+    height: 14px;
+  }
+  
+  .forum-contribute .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 300;
+    color: var(--greenmain);
+    font-size: 12px;
+    letter-spacing: 0.24px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .replly {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .indicator-2 {
+    position: relative;
+    align-self: stretch;
+    width: 10px;
+    background-color: var(--greenkeppel);
+    opacity: 0.5;
+  }
+  
+  .forum-contribute .content-2 {
+    display: flex;
+    flex-direction: column;
+    width: 715px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 20px 40px;
+    position: relative;
+  }
+  
+  .forum-contribute .text-2 {
+    align-self: stretch;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0.7px;
+    line-height: 25px;
+    position: relative;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+  }
+  
+  .forum-contribute .span {
+    font-weight: 500;
+  }
+  
+  .forum-contribute .text-wrapper-18 {
+    font-weight: 300;
+  }
+  
+  .forum-contribute .dlr-2 {
+    height: 26px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .forum-contribute .replly-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 0px;
+    position: absolute;
+    top: 1px;
+    left: 586px;
+  }
+  
+  .forum-contribute .nikcname-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0px;
+    position: absolute;
+    top: 1px;
+    left: 0;
+  }
+  
+  .forum-contribute .nikcname-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-weight: 500;
+    color: var(--subtitle-text-color);
+    font-family: "Roboto", Helvetica;
+    font-size: 13px;
+    letter-spacing: 0.65px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .dislikes-2 {
+    width: 42px;
+    position: relative;
+    height: 14px;
+  }
+  
+  .forum-contribute .likes-2 {
+    position: relative;
+    width: 35px;
+    height: 14px;
+    margin-right: -2px;
+  }
+  
+  .forum-contribute .frame-13 {
+    left: 436px;
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .forum-contribute .dislikes-3 {
+    width: 28px;
+    position: relative;
+    height: 14px;
+  }
+  
+  .forum-contribute .frame-14 {
+    left: 591px;
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .forum-contribute .right-panel-wrapper {
+    display: flex;
+    width: 324px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 60px 0px 0px;
+    position: relative;
+  }
+  
+  .forum-contribute .right-panel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 30px 20px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--white);
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: var(--border);
+    box-shadow: 0px 0px 5px #0000000d;
+  }
+  
+  .forum-contribute .panel-section {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .panel-title {
+    position: relative;
+    width: 230px;
+    height: 28px;
+  }
+  
+  .forum-contribute .group-4 {
+    position: absolute;
+    width: 130px;
+    height: 18px;
+    top: 0;
+    left: 0;
+  }
+  
+  .forum-contribute .text-wrapper-19 {
+    position: absolute;
+    height: 15px;
+    top: 1px;
+    left: 24px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0.65px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .forum-contribute .img-6 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 0;
+    left: 0;
+  }
+  
+  .forum-contribute .line-2 {
+    position: absolute;
+    width: 230px;
+    top: 27px;
+    left: 0;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .forum-contribute .links {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .forum-contribute .text-wrapper-20 {
+    width: 17px;
+    height: 17px;
+    color: var(--orangepumpkin);
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.72px;
+    line-height: 24px;
+    white-space: nowrap;
+    position: relative;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+  }
+  
+  .forum-contribute .text-wrapper-21 {
+    position: relative;
+    width: 213px;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: var(--orangepumpkin);
+    font-size: 11px;
+    letter-spacing: 0.33px;
+    line-height: 17px;
+  }
+  
+  .forum-contribute .group-5 {
+    position: absolute;
+    width: 116px;
+    height: 18px;
+    top: 0;
+    left: 0;
+  }
+  .chat {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .chat .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1519px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .chat .dashboard-header {
+    display: flex;
+    width: 1519px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px #00000014;
+  }
+  
+  .chat .div-navbar-header {
+    display: flex;
+    width: 1519.2px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 11.99px 0px 0px;
+    position: relative;
+  }
+  
+  .chat .div-d-flex {
+    position: relative;
+    width: 650.11px;
+    height: 70px;
+  }
+  
+  .chat .div-navbar-brand-box {
+    display: flex;
+    width: 240px;
+    align-items: flex-start;
+    padding: 25.71px 117.79px 24.29px 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .chat .component {
+    position: relative;
+    width: 101.81px;
+    height: 20px;
+    margin-right: -3.6px;
+  }
+  
+  .chat .button {
+    position: absolute;
+    width: 56px;
+    height: 70px;
+    top: 0;
+    left: 240px;
+    object-fit: cover;
+  }
+  
+  .chat .form {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 16px 0px;
+    position: absolute;
+    top: 0;
+    left: 296px;
+  }
+  
+  .chat .div-position {
+    position: relative;
+    width: 228px;
+    height: 38px;
+  }
+  
+  .chat .overlap-group {
+    position: relative;
+    height: 38px;
+    border-radius: 30px;
+  }
+  
+  .chat .input {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 9.4px 20px 8.6px 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f1f5f7;
+    border-radius: 30px;
+  }
+  
+  .chat .pseudo {
+    display: flex;
+    width: 168px;
+    align-items: flex-start;
+    padding: 0px 114px 0px 0px;
+    position: relative;
+  }
+  
+  .chat .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #74788d;
+    font-size: 14.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .chat .icon {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 13px;
+  }
+  
+  .chat .frame-wrapper {
+    position: relative;
+    width: 361.58px;
+    height: 70px;
+  }
+  
+  .chat .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 2px;
+    position: relative;
+    left: 96px;
+  }
+  
+  .chat .div-dropdown {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .button-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .button-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 23px 12px 24.6px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .img {
+    position: relative;
+    width: 22px;
+  }
+  
+  .chat .span-noti-dot {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 20px;
+    left: 26px;
+    background-color: #ff3d60;
+    border-radius: 3px;
+  }
+  
+  .chat .button-3 {
+    position: relative;
+    width: 121.2px;
+    height: 70px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .chat .avatar-jpg {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 17px;
+    left: 12px;
+    border-radius: 18px;
+    background-image: url(./img/avatar-2-jpg-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .chat .text-wrapper-2 {
+    position: absolute;
+    height: 22px;
+    top: 22px;
+    left: 55px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #636e75;
+    font-size: 14.4px;
+    text-align: center;
+    line-height: 21.6px;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .chat .icon-2 {
+    position: absolute;
+    width: 14px;
+    height: 22px;
+    top: 22px;
+    left: 95px;
+  }
+  
+  .chat .dashboard-sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 954px;
+    align-items: flex-start;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .chat .frame-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .chat .div-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .chat .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blacksilver);
+    font-size: 11px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .chat .item-link {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .chat .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    gap: 76px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .icon-3 {
+    position: relative;
+    width: 17.6px;
+  }
+  
+  .chat .text-wrapper-4 {
+    position: relative;
+    width: 69.56px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .chat .frame-5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .chat .img-2 {
+    position: relative;
+    width: 17.6px;
+    height: 17.6px;
+  }
+  
+  .chat .text-wrapper-5 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .chat .icon-4 {
+    position: relative;
+    width: 16px;
+  }
+  
+  .chat .frame-6 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .text-wrapper-6 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .chat .item-link-2 {
+    position: relative;
+    width: 240px;
+    height: 44.7px;
+  }
+  
+  .chat .frame-7 {
+    display: inline-flex;
+    align-items: center;
+    gap: 73px;
+    position: relative;
+    top: 10px;
+    left: 24px;
+  }
+  
+  .chat .text-wrapper-7 {
+    position: relative;
+    width: 75.7px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .chat .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+    position: absolute;
+    top: 120px;
+    left: 290px;
+  }
+  
+  .chat .item-menu {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blackmain);
+    font-size: 14px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .chat .header {
+    position: relative;
+    width: 1179px;
+    height: 68px;
+    background-color: #ffffff;
+    box-shadow: var(--border-shadow-bottom);
+  }
+  
+  .chat .message-participants {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    position: absolute;
+    top: 15px;
+    left: 514px;
+  }
+  
+  .chat .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: var(--textgraydark);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .chat .p {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--textgray);
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .chat .avatar-group {
+    position: absolute;
+    width: 84px;
+    height: 26px;
+    top: 21px;
+    left: 13px;
+  }
+  
+  .chat .overlap-group-2 {
+    position: relative;
+    height: 26px;
+  }
+  
+  .chat .avatar {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 1px;
+    left: 0;
+    background-image: url(./img/avatar-url-87.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .chat .avatar-with {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 0;
+    left: 18px;
+    background-color: #ffffff;
+    border-radius: 13px;
+  }
+  
+  .chat .avatar-2 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    top: 1px;
+    left: 1px;
+    background-image: url(./img/avatar-url-63.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .chat .avatar-wrapper {
+    left: 38px;
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 0;
+    background-color: #ffffff;
+    border-radius: 13px;
+  }
+  
+  .chat .avatar-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    top: 1px;
+    left: 1px;
+    background-image: url(./img/avatar-url-39.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .chat .avatar-with-2 {
+    left: 58px;
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 0;
+    background-color: #ffffff;
+    border-radius: 13px;
+  }
+  
+  .chat .avatar-4 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    top: 1px;
+    left: 1px;
+    background-image: url(./img/avatar-url-23.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .chat .kebab-horizontal {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 26px;
+    left: 1139px;
+  }
+  
+  .chat .messages-frame {
+    position: relative;
+    width: 1179px;
+    height: 671px;
+  }
+  
+  .chat .text-wrapper-9 {
+    position: absolute;
+    height: 18px;
+    top: 14px;
+    left: 559px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--textgray);
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .chat .message-bubble-self {
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 51px;
+    left: 998px;
+  }
+  
+  .chat .bubble-right {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 0px 4px 8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--orangemain);
+    border-radius: 6px 0px 0px 6px;
+  }
+  
+  .chat .message-frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 4px;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+    transform: rotate(180deg);
+  }
+  
+  .chat .body {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+    transform: rotate(180deg);
+  }
+  
+  .chat .text {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--whitewhite);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .chat .spacer {
+    background-color: var(--orangemain);
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 1px;
+  }
+  
+  .chat .time-read-receipt {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 4px;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+  }
+  
+  .chat .frame-9 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: var(--whitewhite);
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .chat .frame-10 {
+    position: relative;
+    width: 16.6px;
+    height: 8.88px;
+    margin-left: -0.24px;
+    transform: rotate(-180deg);
+  }
+  
+  .chat .bubble-left {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+  }
+  
+  .chat .bubble-tip {
+    position: relative;
+    width: 15px;
+    height: 12px;
+  }
+  
+  .chat .overlap-group-3 {
+    position: relative;
+    width: 14px;
+    height: 12px;
+  }
+  
+  .chat .top-vector-tip {
+    position: absolute;
+    width: 9px;
+    height: 11px;
+    top: 0;
+    left: 6px;
+  }
+  
+  .chat .top-rectangle {
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    top: 0;
+    left: 0;
+    background-color: var(--orangemain);
+  }
+  
+  .chat .bottom-curve {
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--orangemain);
+    position: relative;
+    width: 6px;
+  }
+  
+  .chat .bottom-curve-vector {
+    height: 7px;
+    position: relative;
+    width: 6px;
+  }
+  
+  .chat .message-bubble-self-2 {
+    top: 228px;
+    left: 896px;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .chat .message-bubble-self-3 {
+    top: 437px;
+    left: 1017px;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .chat .message-bubble-other {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    top: 283px;
+    left: 16px;
+  }
+  
+  .chat .avatar-with-online {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background-image: url(./img/avatar-url-37.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .chat .message-bubble {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .bubble-left-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+  }
+  
+  .chat .overlap-group-wrapper {
+    position: relative;
+    width: 15px;
+    height: 12px;
+    transform: rotate(180deg);
+  }
+  
+  .chat .top-vector-tip-2 {
+    position: absolute;
+    width: 9px;
+    height: 11px;
+    top: 1px;
+    left: 6px;
+    transform: rotate(-180deg);
+  }
+  
+  .chat .top-rectangle-2 {
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    top: 0;
+    left: 0;
+    background-color: var(--graygray-1);
+  }
+  
+  .chat .bottom-curve-2 {
+    position: relative;
+    flex: 1;
+    width: 6px;
+    flex-grow: 1;
+    background-color: var(--graygray-1);
+  }
+  
+  .chat .message-frame-wrapper {
+    padding: 4px 8px 4px 0px;
+    background-color: var(--graygray-1);
+    border-radius: 0px 6px 6px 0px;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .sender {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+    transform: rotate(180deg);
+  }
+  
+  .chat .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--textgraydark);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .chat .spacer-2 {
+    background-color: var(--graygray-1);
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 1px;
+  }
+  
+  .chat .time {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+  }
+  
+  .chat .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins", Helvetica;
+    font-weight: 300;
+    color: var(--textgray);
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .chat .message-bubble-other-2 {
+    top: 356px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    left: 16px;
+  }
+  
+  .chat .i-m-down-any-ideas {
+    color: transparent;
+    white-space: nowrap;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .chat .span {
+    color: #2c2c2e;
+  }
+  
+  .chat .text-wrapper-14 {
+    color: #006bdf;
+  }
+  
+  .chat .message-bubble-other-3 {
+    top: 492px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    left: 16px;
+  }
+  
+  .chat .avatar-with-online-2 {
+    background-image: url(./img/avatar-url-61.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .chat .i-m-down-any-ideas-2 {
+    color: var(--textgraydark);
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .chat .message-bubble-other-4 {
+    top: 589px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    left: 16px;
+  }
+  
+  .chat .avatar-with-online-3 {
+    background-image: url(./img/avatar-url-85.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .chat .bubble-right-wrapper {
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 96px;
+    left: 884px;
+  }
+  
+  .chat .bubble-right-2 {
+    padding: 4px 8px;
+    background-color: var(--orangemain);
+    border-radius: 6px;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .chat .message-bubble-other-5 {
+    top: 151px;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    left: 16px;
+  }
+  
+  .chat .avatar-with-online-4 {
+    position: relative;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .chat .toyfaces-colored-BG-wrapper {
+    position: relative;
+    height: 32px;
+    background-image: url(./img/avatar-url-21.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .chat .toyfaces-colored-BG {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    top: 13px;
+    left: 16px;
+    object-fit: cover;
+  }
+  
+  .chat .footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: var(--whitewhite);
+    box-shadow: var(--border-shadow-top);
+  }
+  
+  .chat .emoji-selector {
+    position: relative;
+    width: 40px;
+    height: 48px;
+  }
+  
+  .chat .img-3 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 16px;
+    left: 12px;
+  }
+  
+  .chat .frame-11 {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 14px 0px;
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+  }
+  
+  .chat .text-wrapper-15 {
+    position: relative;
+    width: 520px;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--textgray);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .chat .frame-12 {
+    position: relative;
+    width: 72px;
+    height: 48px;
+  }
+  
+  .chat .paper-airplane {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 16px;
+    left: 44px;
+  }
+  .my-courses {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .my-courses .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1519px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .my-courses .dashboard-header {
+    display: flex;
+    width: 1519px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px #00000014;
+  }
+  
+  .my-courses .div-navbar-header {
+    display: flex;
+    width: 1519.2px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 11.99px 0px 0px;
+    position: relative;
+  }
+  
+  .my-courses .div-d-flex {
+    position: relative;
+    width: 650.11px;
+    height: 70px;
+  }
+  
+  .my-courses .div-navbar-brand-box {
+    display: flex;
+    width: 240px;
+    align-items: flex-start;
+    padding: 25.71px 117.79px 24.29px 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .my-courses .component {
+    position: relative;
+    width: 101.81px;
+    height: 20px;
+    margin-right: -3.6px;
+  }
+  
+  .my-courses .button {
+    position: absolute;
+    width: 56px;
+    height: 70px;
+    top: 0;
+    left: 240px;
+    object-fit: cover;
+  }
+  
+  .my-courses .form {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 16px 0px;
+    position: absolute;
+    top: 0;
+    left: 296px;
+  }
+  
+  .my-courses .div-position {
+    position: relative;
+    width: 228px;
+    height: 38px;
+  }
+  
+  .my-courses .overlap-group {
+    position: relative;
+    height: 38px;
+    border-radius: 30px;
+  }
+  
+  .my-courses .input {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 9.4px 20px 8.6px 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f1f5f7;
+    border-radius: 30px;
+  }
+  
+  .my-courses .pseudo {
+    display: flex;
+    width: 168px;
+    align-items: flex-start;
+    padding: 0px 114px 0px 0px;
+    position: relative;
+  }
+  
+  .my-courses .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #74788d;
+    font-size: 14.4px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .my-courses .icon {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 13px;
+  }
+  
+  .my-courses .frame-wrapper {
+    position: relative;
+    width: 361.58px;
+    height: 70px;
+  }
+  
+  .my-courses .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 2px;
+    position: relative;
+    left: 96px;
+  }
+  
+  .my-courses .div-dropdown {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .button-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .button-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 23px 12px 24.6px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .img {
+    position: relative;
+    width: 22px;
+  }
+  
+  .my-courses .span-noti-dot {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 20px;
+    left: 26px;
+    background-color: #ff3d60;
+    border-radius: 3px;
+  }
+  
+  .my-courses .button-3 {
+    position: relative;
+    width: 121.2px;
+    height: 70px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .my-courses .avatar-jpg {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 17px;
+    left: 12px;
+    border-radius: 18px;
+    background-image: url(./img/avatar-2-jpg-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .my-courses .text-wrapper-2 {
+    position: absolute;
+    height: 22px;
+    top: 22px;
+    left: 55px;
+    font-family: "Nunito", Helvetica;
+    font-weight: 400;
+    color: #636e75;
+    font-size: 14.4px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 21.6px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .icon-2 {
+    position: absolute;
+    width: 14px;
+    height: 22px;
+    top: 22px;
+    left: 95px;
+  }
+  
+  .my-courses .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 900px;
+    align-items: center;
+    gap: 25px;
+    position: absolute;
+    top: 123px;
+    left: 290px;
+  }
+  
+  .my-courses .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .frame-4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .item-menu {
+    position: relative;
+    width: fit-content;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blackmain);
+    font-size: 14px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .book-a-free-demo-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 5px 20px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--greenmain);
+    border-radius: 6px;
+    overflow: hidden;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .my-courses .book-a-free-demo {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .frame-5 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 10px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .themesdesign-in-by {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f7f7f7;
+    border-radius: 15px;
+  }
+  
+  .my-courses .img-2 {
+    position: relative;
+    width: 282px;
+    height: 188px;
+    object-fit: cover;
+  }
+  
+  .my-courses .frame-6 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 13px;
+    padding: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .heading-card-title {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #354558;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .p-card-text {
+    display: flex;
+    width: 242.3px;
+    align-items: flex-start;
+    padding: 0px 6.3px 0.69px 0px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .some-quick-example {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #354558;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 22.1px;
+  }
+  
+  .my-courses .link-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 13px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .link {
+    display: inline-flex;
+    align-items: flex-start;
+    padding: 5.8px 12.2px 7.3px 12.8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--greenmain);
+    border-radius: 3px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: var(--greenmain);
+  }
+  
+  .my-courses .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .div-wrapper {
+    display: flex;
+    width: 243px;
+    align-items: center;
+    justify-content: center;
+    padding: 14.78px 30.54px 15px 30.89px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-bottom: -32.36px;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: var(--greenmain);
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .my-courses .book-a-free-demo-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: var(--greenmain);
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .dashboard-sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 954px;
+    align-items: flex-start;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    background-color: var(--greenmain);
+  }
+  
+  .my-courses .frame-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .frame-8 {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.5;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: var(--blacksilver);
+    font-size: 11px;
+    letter-spacing: 0.55px;
+    line-height: 16.5px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .item-link {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .frame-9 {
+    display: inline-flex;
+    align-items: center;
+    gap: 76px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .frame-10 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .icon-3 {
+    position: relative;
+    width: 17.6px;
+  }
+  
+  .my-courses .text-wrapper-5 {
+    position: relative;
+    width: 69.56px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .frame-11 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .img-3 {
+    position: relative;
+    width: 17.6px;
+    height: 17.6px;
+  }
+  
+  .my-courses .text-wrapper-6 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #d7e4ec;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .icon-4 {
+    position: relative;
+    width: 16px;
+  }
+  
+  .my-courses .list {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    align-items: flex-start;
+    gap: 12.3px;
+    padding: 6px 99.8px 6.3px 51.2px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .item-link-products {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #d7e4ec;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .text-wrapper-7 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .frame-12 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .my-courses .text-wrapper-8 {
+    position: relative;
+    flex: 1;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .my-courses .item-link-2 {
+    position: relative;
+    width: 240px;
+    height: 44.7px;
+  }
+  
+  .my-courses .frame-13 {
+    display: inline-flex;
+    align-items: center;
+    gap: 73px;
+    position: relative;
+    top: 10px;
+    left: 24px;
+  }
+  
+  .my-courses .text-wrapper-9 {
+    position: relative;
+    width: 75.7px;
+    height: 16px;
+    margin-top: -0.2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #8590a5;
+    font-size: 13.3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
